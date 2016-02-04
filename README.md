@@ -14,6 +14,7 @@ Here you will find links to lecture notes and code examples.
   2.  Couting Sort
   3.  Insertion Sort 
   4.  Selection Sort 
+
 ### [Week 2 - Topics](https://github.com/GeorgeRaduta/algorithms/blob/master/Week 2 - Recursion and Complex Sorting Algorithms.pdf)
 
 1.  Functions
