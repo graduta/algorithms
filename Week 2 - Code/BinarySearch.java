@@ -16,6 +16,7 @@ public class BinarySearch {
 				return binarySearch(x, mid+1 , hi, A);
 			}
 		}
+		//In case the element is not found we return -1
 		return -1;
 	}
 	
@@ -25,6 +26,10 @@ public class BinarySearch {
 		int x = 22;
 		
 		int pos = binarySearch(x, 0, 9, A);
-		System.out.println("Element is on position: " + pos);
+		if (pos == -1) {
+			System.out.println("Element was not found");
+		} else {
+			System.out.println("Element is on position: " + pos);
+		}
 	}
 }
