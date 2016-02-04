@@ -14,4 +14,14 @@ Here you will find links to lecture notes and code examples.
   2.  Couting Sort
   3.  Insertion Sort 
   4.  Selection Sort 
+### [Weel 2 - Topics](https://github.com/GeorgeRaduta/algorithms/blob/master/Week 2 - Recursion and Complex Sorting Algorithms.pdf)
 
+1.  Functions
+2
+.  Recursion
+3.  Merging 2 sorted lists
+4.  Divide and Conquer Technique
+5.  Binary Search
+6.  Merge Sort
+7.  Quick Sort
+8.  Radix Sort
