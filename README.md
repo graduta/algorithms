@@ -26,3 +26,11 @@ Here you will find links to lecture notes and code examples.
 6.  Merge Sort
 7.  Quick Sort
 8.  Radix Sort
+
+###[Weel 3 - Topics](https://github.com/GeorgeRaduta/algorithms/blob/master/Week%203%20-%20Lee%20%2B%20Maximum%20Sub%20Array.pdf)
+
+1.  Week 2 - Winner && Challenges
+2.  Lee's Expansion Algorithm
+3.  Mouse Labyrinth
+4.  Minesweeper Game
+5.  Subarray of Maximum Sum
