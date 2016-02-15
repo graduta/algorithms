@@ -27,10 +27,14 @@ Here you will find links to lecture notes and code examples.
 7.  Quick Sort
 8.  Radix Sort
 
-###[Weel 3 - Topics](https://github.com/GeorgeRaduta/algorithms/blob/master/Week%203%20-%20Lee%20%2B%20Maximum%20Sub%20Array.pdf)
+###[Week 3 - Topics](https://github.com/GeorgeRaduta/algorithms/blob/master/Week%203%20-%20Lee%20%2B%20Maximum%20Sub%20Array.pdf)
 
 1.  Week 2 - Winner && Challenges
 2.  Lee's Expansion Algorithm
 3.  Mouse Labyrinth
 4.  Minesweeper Game
 5.  Subarray of Maximum Sum
+
+###[Week 4 - Topics](https://github.com/GeorgeRaduta/algorithms/blob/master/Week%204%20-%20Algorithms%20in%20Security%28Luca%20Vigano%29.pdf)
+
+Algorithms in Security by Luca Vigano
