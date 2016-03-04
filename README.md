@@ -38,3 +38,16 @@ Here you will find links to lecture notes and code examples.
 ###[Week 4 - Topics](https://github.com/GeorgeRaduta/algorithms/blob/master/Week%204%20-%20Algorithms%20in%20Security%28Luca%20Vigano%29.pdf)
 
 Algorithms in Security by Luca Vigano
+
+###[Week 5 - Topics](https://github.com/GeorgeRaduta/algorithms/blob/master/Week%205%20-%20Graph%20Builds%20%28by%20Martin%20Chapman%29.pdf)
+
+Graph Builds by Martin Chapman
+
+###[Week 6 - Topics](https://github.com/GeorgeRaduta/algorithms/blob/master/Week%206%20-%20Graph%20Algorithms.pdf)
+1.  Week 5 - Winner && Challenges
+2.  Prim’s Algorithm
+3.  Kruskal's Algorithm
+4.  Warshall's Algorithm
+5.  Roy-Floyd's Algorihtm
+6.  Short Intro to Heap Data Structure 
+7.  Prim’s Algorithm using Heap
